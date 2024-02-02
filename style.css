@@ -37,3 +37,27 @@ background-color: beige;
 padding: 35px;;
 
 }
+.Button {
+    text-align: center;
+    
+}
+#osticon1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#comic0 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#comic1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
